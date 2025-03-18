@@ -26,7 +26,8 @@ The customer would like to:
 Dashboard….<ссылка…>
 
 ## Dashboard
-[Скриншот…](https://github.com/HellenOk/Project_6_DA_with_Power-BI/blob/main/Screenshot.pdf)
+![image](https://github.com/user-attachments/assets/8db48e9f-d798-460e-af68-5019fc80dc8f)
+
 
 ## Project insight
 …… ПИСАТЬ!!! 
