@@ -41,6 +41,15 @@ The customer would like to:
 
 
 ## Project insight
+ 	The most successful month for sales is November ($352461.07 Total_sales).
+  	Sales dropped in 2019($0,47M), but from 2019 to 2021($0,73M) they grew, as did the number of checks.
+	The highest sales are seen in the West region($725 467,82), as are the highest profit ($108418,45), and the highest percentage increase over the previous period(52,62%).
+
+## Final conclusions
+	To increase sales it is recommended that additional analysis of sales in the West region and in November be conducted to examine trends contributing to maximum performance at this location and during this period. 
+ 	According to the results of the research, make a marketing plan for other regions, including special seasonal promotions to increase sales in other periods.
+
+
  
 
 
